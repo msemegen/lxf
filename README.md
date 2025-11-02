@@ -1,2 +1,2 @@
 # lxf
-2D game framework for vulkan
+Vulkan abstraction layer
